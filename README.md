@@ -16,12 +16,9 @@ Original, timestamped preregistration on OSF.
 Example experiment stimuli.
 
 ### 📊 [Data & Analysis Scripts](data/)
-Deidentified dataset, variable descriptions, and coding information.
-
-### 💻 [Analysis Scripts](analysis/)
 Participant data and R Markdown scripts for analysis.
 
-### 📈 [Supplementary Materials](supplementary/)
+### 💻 [Supplementary Materials](supplementary/)
 Additional materials, text, and figures.
 
 ## Reproducing the analyses
