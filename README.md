@@ -22,4 +22,4 @@ Participant data and R Markdown scripts for analysis.
 Additional materials, text, and figures.
 
 ## Reproducing the analyses
-All analyses were conducted in R. The `analysis/` folder contains the scripts necessary to reproduce the results reported in the manuscript.
+All analyses were conducted in R. The Data and Analysis Scripts `data/` folder contains the scripts necessary to reproduce the results reported in the manuscript.
